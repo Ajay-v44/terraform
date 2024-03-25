@@ -1,0 +1,1 @@
+terraform workspace select prod
